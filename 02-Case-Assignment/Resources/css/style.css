@@ -1,0 +1,43 @@
+.body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.1em;
+    background-color:#eee;
+    color: tomato;
+  }
+
+.navbar-links{
+    float: right
+}
+
+.navbar-brand{
+    background-color:#00cccc;
+    font-weight: bold;
+    padding: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.content-container {
+    padding-right: 25px;
+    margin: 2;
+    visibility: visible;
+    width: 100%;
+    height: 3000px;
+}
+
+.content-container2 {
+    width: 1000px;
+    height: 1000px;
+}
+
+
+.viz-info{
+    padding: 16px;
+    text-align: justify;
+}
+
+
+#data-table-container {
+    margin-top: 32px;
+    background-color: white;
+    
+}
